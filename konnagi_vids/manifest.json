@@ -1,11 +1,10 @@
-
 {
-  "id": "./",
+  "id": "./konnagi_vids/",
   "name": "X 全面表示",
   "short_name": "X",
   "description": "ボタンひとつでXを開くPWA",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "./konnagi_vids/",
+  "scope": "./konnagi_vids/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#000000",
