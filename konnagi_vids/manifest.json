@@ -3,7 +3,7 @@
   "name": "X 全面表示",
   "short_name": "X",
   "description": "ボタンひとつでXを開くPWA",
-  "start_url": "./konnagi_vids/",
+  "start_url": "./",
   "scope": "./konnagi_vids/",
   "display": "standalone",
   "orientation": "any",
